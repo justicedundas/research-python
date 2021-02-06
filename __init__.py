@@ -7,7 +7,7 @@ from .yahoo.screener import Screener
 from .yahoo.ticker import Ticker
 
 # Directory to export values to
-# NEO4J_IMPORT = "/home/dundy/Desktop/myNewApp/data/testdata"
+# NEO4J_IMPORT = "/home/dundy/Desktop/dummyApp/data/testdata"
 GEONAMES_DUMP = "https://download.geonames.org/export/dump/"
 GEONAMES_ZIP = "https://download.geonames.org/export/zip/"
 WB_API_URL = "https://api.worldbank.org/v2"
@@ -15,7 +15,7 @@ EXPORT_DIR = "geodataimport/data/"
 
 
 # Update Environment Variables
-# os.environ.update({"NEO4J_IMPORT": NEO4J_IMPORT})
+os.environ.update({"NEO4J_IMPORT": NEO4J_IMPORT})
 os.environ.update({"GEONAMES_DUMP": GEONAMES_DUMP})
 os.environ.update({"GEONAMES_ZIP": GEONAMES_ZIP})
 os.environ.update({"EXPORT_DIR": EXPORT_DIR})
