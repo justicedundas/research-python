@@ -1,0 +1,23 @@
+ticker,action_id,deal_type,announcement_date,deal_status,currency,announced_total_value,payment_type
+CSX,195509260.0,M&A,2019-06-05,Completed,USD,0.0,Cash
+CSX,173918400.0,M&A,2018-07-10,Completed,USD,0.0,Cash
+CSX,161199380.0,M&A,2018-02-20,Completed,USD,77000000.0,Cash
+CSX,97420040.0,M&A,2014-10-12,Withdrawn,USD,0.0,Undisclosed
+CSX,80321384.0,M&A,2013-08-07,Completed,USD,0.0,Cash
+CSX,37190224.0,M&A,2009-05-07,Completed,USD,20000000.0,Cash
+CSX,36354380.0,M&A,2009-03-19,Terminated,USD,0.0,Cash
+CSX,20211732.0,M&A,2005-12-16,Completed,USD,185000000.0,Cash
+CSX,16723591.0,M&A,2004-12-31,Completed,HKD,1577907000.0,Undisclosed
+CSX,16500286.0,M&A,2004-12-08,Completed,USD,1142000000.0,Cash
+CSX,15599567.0,M&A,2004-08-30,Completed,USD,0.0,Undisclosed
+CSX,15451203.0,M&A,2004-08-13,Completed,USD,0.0,Undisclosed
+CSX,9782666.0,M&A,2002-12-17,Completed,USD,300000000.0,Cash
+CSX,5868314.0,M&A,2000-09-04,Completed,USD,650000000.0,Cash
+CSX,4714467.0,M&A,1999-07-22,Completed,USD,800000000.0,Undisclosed
+CSX,4381958.0,M&A,1999-02-22,Completed,,50000000.0,Undisclosed
+CSX,2718033.0,M&A,1998-04-20,Completed,USD,850000000.0,Cash and Stock
+CSX,12103.0,M&A,1997-04-08,Completed,USD,0.0,Cash
+CSX,5693594.0,INV,1996-10-15,Completed,USD,4300000000.0,Cash
+CSX,1954465.0,M&A,1993-02-08,Completed,,0.0,Undisclosed
+CSX,4697566.0,M&A,1988-12-23,Completed,USD,571000000.0,Undisclosed
+CSX,6065597.0,M&A,1987-07-31,Completed,USD,0.0,Undisclosed

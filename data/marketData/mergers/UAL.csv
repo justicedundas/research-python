@@ -1,0 +1,11 @@
+ticker,action_id,deal_type,announcement_date,deal_status,currency,announced_total_value,payment_type
+UAL,198104320.0,INV,2019-07-29,Pending,USD,0.0,Undisclosed
+UAL,183389060.0,M&A,2018-12-18,Completed,USD,70000000.0,Cash
+UAL,120309230.0,INV,2016-01-05,Pending,USD,0.0,Cash
+UAL,108954090.0,INV,2015-06-30,Completed,USD,30000000.0,Undisclosed
+UAL,108809940.0,INV,2015-06-26,Completed,USD,100000000.0,Cash
+UAL,53450268.0,JV,2011-04-06,Completed,USD,0.0,Undisclosed
+UAL,44992224.0,M&A,2010-05-03,Completed,USD,3185635000.0,Stock
+UAL,37645090.0,M&A,2009-06-01,Completed,USD,0.0,Cash
+UAL,21385408.0,M&A,2006-04-10,Completed,USD,56000000.0,Cash
+UAL,20695036.0,M&A,2006-02-01,Completed,USD,4300000.0,Cash

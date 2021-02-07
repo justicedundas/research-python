@@ -1,0 +1,7 @@
+ticker,action_id,deal_type,announcement_date,deal_status,currency,announced_total_value,payment_type
+REGN,190716100.0,INV,2019-04-08,Completed,USD,800000000.0,Cash
+REGN,175485400.0,INV,2018-08-06,Pending,USD,100000000.0,Cash
+REGN,170410910.0,INV,2018-06-19,Completed,USD,55000000.0,Cash
+REGN,129973870.0,INV,2016-04-11,Completed,USD,55000000.0,Cash
+REGN,76738616.0,M&A,2013-05-03,Completed,USD,20000000.0,Cash
+REGN,29369480.0,INV,2007-11-29,Completed,USD,312000000.0,Cash

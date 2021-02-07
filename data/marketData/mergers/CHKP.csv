@@ -1,0 +1,16 @@
+ticker,action_id,deal_type,announcement_date,deal_status,currency,announced_total_value,payment_type
+CHKP,196076720.0,INV,2019-06-26,Completed,USD,23000000.0,Cash
+CHKP,185118430.0,M&A,2019-01-14,Completed,ILS,0.0,Undisclosed
+CHKP,179912660.0,M&A,2018-10-24,Completed,USD,0.0,Cash
+CHKP,118903460.0,M&A,2016-01-13,Withdrawn,USD,0.0,Undisclosed
+CHKP,104256930.0,M&A,2015-04-02,Pending,USD,80000000.0,Undisclosed
+CHKP,102843860.0,M&A,2015-02-18,Completed,ILS,0.0,Undisclosed
+CHKP,58848544.0,M&A,2011-10-31,Completed,ILS,0.0,Undisclosed
+CHKP,45906116.0,M&A,2010-06-09,Completed,USD,0.0,Undisclosed
+CHKP,41250384.0,M&A,2009-11-23,Completed,USD,0.0,Cash
+CHKP,34959880.0,M&A,2008-12-22,Completed,EUR,0.0,Cash
+CHKP,24453592.0,M&A,2006-12-19,Completed,USD,20000000.0,Cash
+CHKP,23971962.0,M&A,2006-11-20,Completed,SEK,4207582000.0,Cash
+CHKP,19499664.0,M&A,2005-10-06,Terminated,USD,225000000.0,Cash
+CHKP,13179868.0,M&A,2003-12-15,Completed,USD,205806600.0,Cash and Stock
+CHKP,753901.0,M&A,1998-04-14,Completed,USD,29048900.0,Stock

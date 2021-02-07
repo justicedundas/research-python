@@ -1,0 +1,16 @@
+ticker,action_id,deal_type,announcement_date,deal_status,currency,announced_total_value,payment_type
+ORLY,199511120.0,M&A,2019-08-20,Pending,MXN,0.0,Undisclosed
+ORLY,199512380.0,M&A,2019-08-20,Pending,MXN,0.0,Undisclosed
+ORLY,181257250.0,M&A,2018-11-13,Pending,USD,0.0,Cash
+ORLY,134065600.0,M&A,2016-10-26,Completed,USD,0.0,Undisclosed
+ORLY,79321040.0,M&A,2012-12-17,Completed,USD,0.0,Cash
+ORLY,30088020.0,M&A,2008-02-01,Completed,USD,1010336000.0,Cash and Stock
+ORLY,17949586.0,M&A,2005-05-02,Completed,USD,61000000.0,Cash
+ORLY,9943318.0,M&A,2002-12-19,Completed,USD,0.0,Undisclosed
+ORLY,9943330.0,M&A,2002-12-19,Completed,USD,0.0,Undisclosed
+ORLY,7005099.0,M&A,2001-08-09,Completed,GBP,32529998.0,Cash
+ORLY,5433424.0,M&A,2000-04-25,Completed,USD,14000000.0,Cash
+ORLY,5171403.0,M&A,2000-01-18,Completed,USD,5000000.0,Cash
+ORLY,5171407.0,M&A,2000-01-18,Completed,USD,5400000.0,Cash
+ORLY,2641507.0,M&A,1998-10-27,Completed,USD,6000000.0,Cash
+ORLY,106037.0,M&A,1997-12-23,Completed,USD,46871000.0,Cash

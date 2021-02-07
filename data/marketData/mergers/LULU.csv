@@ -1,0 +1,6 @@
+ticker,action_id,deal_type,announcement_date,deal_status,currency,announced_total_value,payment_type
+LULU,178531330.0,M&A,2018-09-21,Completed,USD,0.0,Cash
+LULU,147387730.0,INV,2017-06-19,Completed,CAD,0.0,Undisclosed
+LULU,94723160.0,INV,2014-08-07,Completed,USD,845000000.0,Cash
+LULU,45272876.0,M&A,2010-05-12,Completed,AUD,0.0,Undisclosed
+LULU,27238744.0,INV,2005-12-09,Completed,USD,93000000.0,Cash

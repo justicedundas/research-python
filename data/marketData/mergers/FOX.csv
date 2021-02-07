@@ -1,0 +1,4 @@
+ticker,action_id,deal_type,announcement_date,deal_status,currency,announced_total_value,payment_type
+FOX,198752210.0,M&A,2019-08-06,Pending,AUD,585000000.0,Cash
+FOX,198631230.0,M&A,2019-08-05,Pending,AUD,328891680.0,Cash
+FOX,192612940.0,INV,2019-05-08,Pending,USD,236000000.0,Cash
