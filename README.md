@@ -1,5 +1,5 @@
 # research-python
-API wrappers for geonames, world bank, and yfinance written in python
+API wrappers for geonames, world bank, and yfinance written in python.
 
 TODO: 
 - [ ] Convert ISO market code iPython to python
@@ -20,3 +20,5 @@ TODO:
  * Country ISO constants
  * Yfinance all equity screeners json
  * Script to download and store all geographic data 
+
+**DON'T** use the tools to advise trading, purpose is to provide quick data for testing other modules
