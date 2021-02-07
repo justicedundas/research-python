@@ -13,7 +13,7 @@ API wrappers for geonames, world bank, and yfinance written in python.
  * ./utils/exchanges contains IPython file for downloading all global exchanges
  * Config file for csv processing and storing 
  * Country ISO constants
- * Yfinance all equity screeners json
+ * Yfinance all equity screeners object
  * Script to download and store all geographic data 
 
 **DON'T** use the tools to advise trading, purpose is to provide quick data for testing other modules
